@@ -37,7 +37,7 @@ My goal is to continue developing my technical and software testing skills as we
 * https://www.linkedin.com/in/beata-lapinska/
 
 ## BUGS
-* https://docs.google.com/spreadsheets/d/1ChSa4Ewsw2pE5G9i2Dgbf-uyPVLGFFjl/edit?usp=sharing&ouid=102910767133544655974&rtpof=true&sd=true
+* [bUGS] (https://docs.google.com/spreadsheets/d/1ChSa4Ewsw2pE5G9i2Dgbf-uyPVLGFFjl/edit?usp=sharing&ouid=102910767133544655974&rtpof=true&sd=true)
 ## TEST CASES
 * https://docs.google.com/spreadsheets/d/13m7EPALNbXVljJoKay9nxT9OK9sLjDC1/edit?usp=sharing&ouid=102910767133544655974&rtpof=true&sd=true
 ## TEST REPORT

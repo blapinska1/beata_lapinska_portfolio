@@ -30,7 +30,8 @@ My goal is to continue developing my technical and software testing skills as we
 * PSM I - Professional Scrum Master I (Scrum.org, 2022)
 * Scrum for beginners + Scrum Master Certification Preparation (Udemy, 2021)
 
-## TECHNICAL SKILLS
+## SKILLS
+* 
 ## MY PROJECTS
 ## LINKEDIN
 * https://www.linkedin.com/in/beata-lapinska/

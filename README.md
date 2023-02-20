@@ -35,7 +35,7 @@ My goal is to continue developing my technical and software testing skills as we
 * Project management
 * Leadership
 * Teamwork
-* * Regression testing
+* Regression testing
 * Quality Assurance
 * Localization
 * iOS testing

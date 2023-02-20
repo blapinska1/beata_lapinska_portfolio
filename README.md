@@ -25,8 +25,11 @@ My goal is to continue developing my technical and software testing skills as we
 * Skype - for communication
 
 
-## CERTIFICATES
-## COURSES
+## COURSES & CERTIFICATES
+
+* PSM I - Professional Scrum Master I (Scrum.org, 2022)
+* Scrum for beginners + Scrum Master Certification Preparation (Udemy, 2021)
+
 ## TECHNICAL SKILLS
 ## MY PROJECTS
 ## 

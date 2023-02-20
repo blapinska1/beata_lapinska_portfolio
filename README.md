@@ -31,7 +31,16 @@ My goal is to continue developing my technical and software testing skills as we
 * Scrum for beginners + Scrum Master Certification Preparation (Udemy, 2021)
 
 ## SKILLS
-* 
+* Test planning
+* Project management
+* Leadership
+* Teamwork
+* * Regression testing
+* Quality Assurance
+* Localization
+* iOS testing
+* Android testing
+
 ## LINKEDIN
 * https://www.linkedin.com/in/beata-lapinska/
 

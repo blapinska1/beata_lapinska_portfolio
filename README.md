@@ -11,6 +11,20 @@ My goal is to continue developing my technical and software testing skills as we
 
 
 ## TOOLS
+
+* Jira - bug tracking, scrum/kanban boards
+* X-ray plug-in for Jira - test cases management
+* Trello - project management
+* TestRail - test cases management
+* Confluence
+* GitHub
+* MySQL - relational database management system
+* Postman - testing tool for REST API (very basic understanding)
+* Slack - for communication
+* Microsoft Teams - for communication
+* Skype - for communication
+
+
 ## CERTIFICATES
 ## COURSES
 ## TECHNICAL SKILLS

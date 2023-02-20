@@ -35,3 +35,7 @@ My goal is to continue developing my technical and software testing skills as we
 ## MY PROJECTS
 ## LINKEDIN
 * https://www.linkedin.com/in/beata-lapinska/
+
+
+
+https://drive.google.com/drive/folders/1BE9hvqrY9sC0J9qc5vWunFVxGCrRARjr?usp=sharing

@@ -47,7 +47,7 @@ My goal is to continue developing my technical and software testing skills as we
 * [Bugs](https://drive.google.com/drive/folders/1c7sUt2nZBE3CN00i_KYimq3fL72mAYIJ?usp=drive_link)
 ## TEST CASES
 * [Automated Test cases_repo](https://github.com/blapinska1/Challenge_portfolio_python_beata_lapinska)
-* [Autmoated_robot_test_cases_repo](https://github.com/blapinska1/Challenge_portfolio_python_robotframework_beata_lapinska)
+* [Automated_robot_test_cases_repo](https://github.com/blapinska1/Challenge_portfolio_python_robotframework_beata_lapinska)
 ## TEST REPORT
 * [Test Report](https://drive.google.com/drive/folders/1c7sUt2nZBE3CN00i_KYimq3fL72mAYIJ?usp=drive_link)
 
